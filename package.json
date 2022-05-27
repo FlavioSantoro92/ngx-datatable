@@ -1,6 +1,18 @@
 {
-  "name": "ngx-datatable",
-  "version": "0.0.0",
+  "name": "FlavioSantoro92/ngx-datatable",
+  "version": "1.0.0",
+  "description": "Fork of nxg-datatable with updated dependencies",
+  "author": {
+    "name": "Flavio Santoro",
+    "email": "flavio.santoro92@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FlavioSantoro92/ngx-datatable"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
